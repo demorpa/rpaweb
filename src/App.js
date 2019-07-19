@@ -15,7 +15,6 @@ class App extends Component {
           <main id="content" className="p-5">
             <Routes />
           </main>
-          <Footer />
         </div>
     );
   }
