@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/fa-regular-400.da8a235b.svg"
   },
   {
-    "revision": "f14c3b2ff7c821a4c838debbffd6ad2d",
-    "url": "/rpaweb/static/media/fa-solid-900.f14c3b2f.ttf"
-  },
-  {
     "revision": "e2675a616b68f446fa6284c111554c7f",
     "url": "/rpaweb/static/media/fa-solid-900.e2675a61.eot"
+  },
+  {
+    "revision": "f14c3b2ff7c821a4c838debbffd6ad2d",
+    "url": "/rpaweb/static/media/fa-solid-900.f14c3b2f.ttf"
   },
   {
     "revision": "38975343b586296e9b73e6b56cc3ec5d",
@@ -160,12 +160,12 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/rpaweb/static/media/Roboto-Regular.df7b648c.ttf"
-  },
-  {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/rpaweb/static/media/Roboto-Light.46e48ce0.ttf"
+  },
+  {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/rpaweb/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
