@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/rpaweb/static/media/arrow_right.8ef6a08c.svg"
+    "revision": "11911410dca2de148f30954eb2fd5eab",
+    "url": "/rpaweb/static/media/arrow_left.11911410.svg"
   },
   {
     "revision": "82176c56142b3e0a9caa",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/js/main.82176c56.chunk.js"
   },
   {
-    "revision": "11911410dca2de148f30954eb2fd5eab",
-    "url": "/rpaweb/static/media/arrow_left.11911410.svg"
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/rpaweb/static/media/arrow_right.8ef6a08c.svg"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
