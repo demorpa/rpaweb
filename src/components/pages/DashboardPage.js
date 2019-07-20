@@ -1,16 +1,3 @@
-// import React from 'react';
-// import { MDBRow } from 'mdbreact';
-
-// const DashboardPage =  () => {
-//   return (
-//     <React.Fragment>
-      
-//     </React.Fragment>
-//   )
-// }
-
-// export default DashboardPage;
-
     import React, { Component } from "react";
     import Form from 'react-bootstrap/Form';
     import Button from 'react-bootstrap/Button';
@@ -32,12 +19,18 @@
 
       handleClose = (e) => {
         this.setState({open: false });
+        // this.props.history.push("https://google.com");
+        // setTimeout(()=>push(to), 1000);
+        
       }
       
 
       handleSubmit = event => {
         event.preventDefault();
         this.setState({ open: true});
+        const { history: { push } } = this.props;
+        event.preventDefault();
+        setTimeout(()=>push("/welcome"), 3000);
       }
 
       render() {
@@ -49,7 +42,7 @@
             <Form onSubmit={this.handleSubmit}>
               <Form.Group controlId="email" bsSize="large">
               <Form.Label>Username</Form.Label>
-              <Form.Control type="text" placeholder="Username" />
+              <Form.Control type="text" placeholder="Username"/>
               </Form.Group>
               <Form.Group controlId="password" bsSize="large">
               <Form.Label>Password</Form.Label>
@@ -73,7 +66,8 @@
                 ContentProps={{
                   'aria-describedby': 'message-id',
                 }}
-                message={<span id="message-id">Login Successful</span>}
+                message={<span id="message-id">Login Successful. Redirect after 3 seconds
+                </span>}
               />
             </Form>
           </div>

@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "82176c56142b3e0a9caa",
+    "revision": "0769dd777a630132c7e4",
     "url": "/rpaweb/static/css/main.060e6b91.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/fa-regular-400.7aaf5675.woff"
   },
   {
-    "revision": "859001f6ae8eb0bb3878aaa971b50fc6",
-    "url": "/rpaweb/static/media/fa-regular-400.859001f6.eot"
-  },
-  {
     "revision": "f33342516f7cbe46f1d6b68f9e7bbeda",
     "url": "/rpaweb/static/media/fa-regular-400.f3334251.ttf"
+  },
+  {
+    "revision": "859001f6ae8eb0bb3878aaa971b50fc6",
+    "url": "/rpaweb/static/media/fa-regular-400.859001f6.eot"
   },
   {
     "revision": "9f4ce3dc689981a1b87faab0f5484f9e",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/fa-solid-900.7726a281.svg"
   },
   {
-    "revision": "82176c56142b3e0a9caa",
-    "url": "/rpaweb/static/js/main.82176c56.chunk.js"
+    "revision": "0769dd777a630132c7e4",
+    "url": "/rpaweb/static/js/main.0769dd77.chunk.js"
   },
   {
     "revision": "8ef6a08cdc1154920165680a4edde771",
@@ -160,12 +160,12 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/rpaweb/static/media/Roboto-Regular.df7b648c.ttf"
-  },
-  {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/rpaweb/static/media/Roboto-Light.46e48ce0.ttf"
+  },
+  {
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/rpaweb/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
@@ -176,7 +176,7 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/css/1.bd60c540.chunk.css"
   },
   {
-    "revision": "803362dcc8965e932bb95cbc55ae6b9a",
+    "revision": "8b80ef76072f100bba5650927c458152",
     "url": "/rpaweb/index.html"
   }
 ];
