@@ -10,12 +10,12 @@ class Routes extends React.Component {
   render() {
     return (
       <Switch>
-        <Route path='/' exact component={DashboardPage} />
-        <Route path='/dashboard' component={DashboardPage} />
-        <Route path='/profile' component={ProfilePage} />
-        <Route path='/tables' component={TablesPage} />
-        <Route path='/maps' component={MapsPage} />
-        <Route path='/404' component={NotFoundPage} />
+        <Route path='/rpaweb' component={DashboardPage} />
+        // <Route path='/dashboard' component={DashboardPage} />
+        // <Route path='/profile' component={ProfilePage} />
+        // <Route path='/tables' component={TablesPage} />
+        // <Route path='/maps' component={MapsPage} />
+        // <Route path='/404' component={NotFoundPage} />
       </Switch>
     );
   }
