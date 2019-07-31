@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "5943cc7d461a5ac844f2",
-    "url": "/rpaweb/static/css/main.8872dd1f.chunk.css"
+    "revision": "326d25875f98685c29ad",
+    "url": "/rpaweb/static/css/main.531aa412.chunk.css"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
     "url": "/rpaweb/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
-    "revision": "8973371a24844a113635",
-    "url": "/rpaweb/static/js/1.8973371a.chunk.js"
+    "revision": "447f4e97a6c8a2df4e1a",
+    "url": "/rpaweb/static/js/1.447f4e97.chunk.js"
   },
   {
     "revision": "dd447d4c8f6058d39e8d",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "5943cc7d461a5ac844f2",
-    "url": "/rpaweb/static/js/main.5943cc7d.chunk.js"
+    "revision": "326d25875f98685c29ad",
+    "url": "/rpaweb/static/js/main.326d2587.chunk.js"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
@@ -156,23 +156,23 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/rpaweb/static/media/Roboto-Light.46e48ce0.ttf"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/rpaweb/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/rpaweb/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/rpaweb/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/rpaweb/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "8973371a24844a113635",
-    "url": "/rpaweb/static/css/1.9fd195db.chunk.css"
+    "revision": "447f4e97a6c8a2df4e1a",
+    "url": "/rpaweb/static/css/1.068fd504.chunk.css"
   },
   {
-    "revision": "d66f44fb188a73f4112b487464a386b9",
+    "revision": "c7aab69863f4b0b66941f8f2e494a21c",
     "url": "/rpaweb/index.html"
   }
 ];
