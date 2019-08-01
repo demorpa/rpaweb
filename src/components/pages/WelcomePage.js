@@ -20,7 +20,7 @@
         const max = 99999;
         const rand = min + Math.random() * (max - min);
         const round = Math.round(rand);
-        this.setState({ random: round, open: 'inline' });
+        this.setState({ random: "SVT"+round, open: 'inline' });
       }
 
       render() {
@@ -39,7 +39,6 @@
               <Form.Group controlId="Số nhân khẩu" bsSize="large">
                 <Form.Control placeholder="Số nhân khẩu" type="number" />
               </Form.Group>
-
               <Button
                 block
                 bsSize="large"
@@ -49,7 +48,8 @@
               </Button>
               <br/>
               <div style={style}>
-              <Form.Label>Mã số khách hàng: SVT{random}</Form.Label>
+              <Form.Label>Mã số khách hàng: </Form.Label>
+              <Form.Control plaintext readOnly value={random} />
               </div>
             </Form>
           </div>
