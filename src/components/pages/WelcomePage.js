@@ -55,11 +55,11 @@
               
             </Form>
 
-            <div className="copy" style={style}>
-            <CopyToClipboard text={this.state.random}>
-              <button>Copy</button>
-            </CopyToClipboard>
-            </div>
+            // <div className="copy" style={style}>
+            // <CopyToClipboard text={this.state.random}>
+            //   <button>Copy</button>
+            // </CopyToClipboard>
+            // </div>
           </div>
         );
       }
