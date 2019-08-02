@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "fce0018fc11046cee2f4",
-    "url": "/rpaweb/static/css/main.531aa412.chunk.css"
+    "revision": "a41176e1324445c90a50",
+    "url": "/rpaweb/static/css/main.5e2d8f2b.chunk.css"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
     "url": "/rpaweb/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
-    "revision": "447f4e97a6c8a2df4e1a",
-    "url": "/rpaweb/static/js/1.447f4e97.chunk.js"
+    "revision": "973f26a22f30a560c4fa",
+    "url": "/rpaweb/static/js/1.973f26a2.chunk.js"
   },
   {
     "revision": "dd447d4c8f6058d39e8d",
@@ -88,8 +88,8 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "fce0018fc11046cee2f4",
-    "url": "/rpaweb/static/js/main.fce0018f.chunk.js"
+    "revision": "a41176e1324445c90a50",
+    "url": "/rpaweb/static/js/main.a41176e1.chunk.js"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
@@ -116,12 +116,12 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/Roboto-Thin.954bbdeb.woff2"
   },
   {
-    "revision": "69f8a0617ac472f78e45841323a3df9e",
-    "url": "/rpaweb/static/media/Roboto-Light.69f8a061.woff2"
-  },
-  {
     "revision": "2751ee43015f9884c3642f103b7f70c9",
     "url": "/rpaweb/static/media/Roboto-Regular.2751ee43.woff2"
+  },
+  {
+    "revision": "69f8a0617ac472f78e45841323a3df9e",
+    "url": "/rpaweb/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
     "revision": "574fd0b50367f886d359e8264938fc37",
@@ -156,10 +156,6 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/rpaweb/static/media/Roboto-Medium.894a2ede.ttf"
-  },
-  {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/rpaweb/static/media/Roboto-Light.46e48ce0.ttf"
   },
@@ -168,11 +164,15 @@ self.__precacheManifest = [
     "url": "/rpaweb/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
-    "revision": "447f4e97a6c8a2df4e1a",
-    "url": "/rpaweb/static/css/1.068fd504.chunk.css"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/rpaweb/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
-    "revision": "0f51b541a005b5099410394deafc3dd2",
+    "revision": "973f26a22f30a560c4fa",
+    "url": "/rpaweb/static/css/1.bdc9fada.chunk.css"
+  },
+  {
+    "revision": "eff8a77467ceabbedeefa3f4c4279d5c",
     "url": "/rpaweb/index.html"
   }
 ];
