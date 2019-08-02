@@ -2,6 +2,7 @@
     import Form from 'react-bootstrap/Form';
     import Button from 'react-bootstrap/Button';
     import Bootstrap from "react-bootstrap";
+    import {CopyToClipboard} from 'react-copy-to-clipboard';
     import "./Welcome.css";
 
     export default class WelcomePage extends Component {
@@ -27,6 +28,7 @@
         var random = this.state.random;
         var open = this.state.open;
         var style = {display:open};
+        var stylea = {display:'none'};
         return (
           <div className="WelcomePage">
             <Form onSubmit={this.handleSubmit}>
@@ -53,6 +55,12 @@
               </div>
               
             </Form>
+
+            <div className="copy" style={stylea}>
+            <CopyToClipboard text={this.state.random}>
+              <button>Copy</button>
+            </CopyToClipboard>
+            </div>
           </div>
         );
       }
