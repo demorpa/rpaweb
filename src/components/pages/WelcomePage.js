@@ -2,6 +2,7 @@
     import Form from 'react-bootstrap/Form';
     import Button from 'react-bootstrap/Button';
     import Bootstrap from "react-bootstrap";
+    import {CopyToClipboard} from 'react-copy-to-clipboard';
     import "./Welcome.css";
 
     export default class WelcomePage extends Component {
@@ -48,10 +49,17 @@
               </Button>
               <br/>
               <div style={style}>
-              <Form.Label>Mã số khách hàng: </Form.Label>
-              <Form.Control plaintext readOnly value={random} />
+                <Form.Label>Mã số khách hàng: </Form.Label>
+                <Form.Control plaintext readOnly value={random} />
               </div>
+              
             </Form>
+
+            <div className="copy" style={style}>
+            <CopyToClipboard text={this.state.random}>
+              <button>Copy</button>
+            </CopyToClipboard>
+            </div>
           </div>
         );
       }
